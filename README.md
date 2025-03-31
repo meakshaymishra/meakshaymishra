@@ -18,9 +18,7 @@ I'm a software engineer with a strong background in developing web applications 
 
 ### Connect with Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
-[My Personal Website](https://your-personal-website.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/meakshaymishra/))
 
 ---
 
